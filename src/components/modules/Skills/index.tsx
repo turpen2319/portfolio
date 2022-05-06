@@ -13,7 +13,7 @@ const Skills = () => {
     <Wrapper id="about">
       <SkillsWrapper as={Container}>
         <Thumbnail>
-          <Image src={skillsIllustration} alt="I’m John and I’m a Backend & Devops engineer!" />
+          <Image src={skillsIllustration} alt="I’m Austin and I’m a MERN & Django developer!" />
         </Thumbnail>
         <Details theme={theme}>
           <h1>More about me</h1>
@@ -22,7 +22,7 @@ const Skills = () => {
             industry’s standard dummy.
           </p>
           <Link href="#contact" passHref>
-            <Button as="a">Hire me</Button>
+            <Button as="a">Contact me</Button>
           </Link>
         </Details>
       </SkillsWrapper>

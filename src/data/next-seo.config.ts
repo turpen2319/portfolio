@@ -1,6 +1,6 @@
 export default {
-  title: 'John Doe',
-  description: 'I’m John and I’m a Backend & Devops engineer!',
+  title: 'Austin Doe',
+  description: 'I’m Austin and I’m a MERN and Django developer!',
   openGraph: {
     type: 'website',
     locale: 'en_US',
@@ -9,16 +9,16 @@ export default {
     images: [
       {
         url:
-          'https://portfolio-next.smakosh.com/assets/thumbnail/thumbnail.png',
+          '#',
         width: 1200,
         height: 600,
-        alt: 'I’m John and I’m a Backend & Devops engineer!',
+        alt: 'I’m Austin and I’m a MERN and Django developer!',
       },
     ],
   },
   twitter: {
-    handle: '@smakosh',
-    site: '@smakosh',
+    handle: '',
+    site: '',
     cardType: 'summary_large_image',
   },
 };
